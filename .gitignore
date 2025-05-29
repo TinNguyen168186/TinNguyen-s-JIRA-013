@@ -1,0 +1,98 @@
+## Ignore Visual Studio temporary files, build results, and
+## user-specific files.
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Oo]ut/
+
+# Visual Studio working directory
+.vs/
+
+# DotCover
+.idea/
+
+# Rider
+.idea/
+*.sln.iml
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.assets.json
+*.nuspec
+*.psmdcp
+.nuget/
+
+# Microsoft Build Log
+*.binlog
+
+# MSTest
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NUnit
+*.VisualState.xml
+TestResult.xml
+nunit-*.xml
+
+# xUnit
+xunit-*.xml
+
+# Coverage results
+coverage/
+*.coverage
+*.coveragexml
+CodeCoverage/
+
+# StyleCop
+StyleCopReport.xml
+
+# File-based DBs
+*.mdf
+*.ldf
+*.ndf
+
+# OS generated files
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+desktop.ini
+
+# Backup and temp files
+~$*
+*~
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+
+# Others
+artifacts/
